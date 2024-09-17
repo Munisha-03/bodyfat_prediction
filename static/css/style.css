@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+    .contact-container {
+        flex-direction: row;
+        gap: 10px;
+    }
+}
